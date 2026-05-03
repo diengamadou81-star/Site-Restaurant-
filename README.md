@@ -1,8 +1,8 @@
 # 🍽️ Le Goût de Mbour
 
-> Restaurant Africain Authentique — Dakar, Sénégal
+> Restaurant Africain Authentique — Mbour, Sénégal
 
-Site web officiel du restaurant **Le Goût de Mbour**, fondé en 2012 par la famille Diallo dans le quartier des Almadies à Dakar.
+Site web officiel du restaurant **Le Goût de Mbour**, fondé en 2026 par la famille Dieng à Saly.
 
 ---
 
@@ -83,10 +83,10 @@ Après déploiement sur Vercel :
 
 ## 📞 Contact Restaurant
 
-- 📍 Zone des Almadies, Dakar, Sénégal
-- 📞 +221 77 123 45 67
+- 📍 Zone de Saly, Mbour, Sénégal
+- 📞 +221 76 348 23  32
 - 📧 legoutdembour@gmail.com
 
 ---
 
-*© 2024 Le Goût de Mbour — Fait avec ♥ à Dakar*
+*© 2026 Le Goût de Mbour — Fait avec ♥ à Mbour*
